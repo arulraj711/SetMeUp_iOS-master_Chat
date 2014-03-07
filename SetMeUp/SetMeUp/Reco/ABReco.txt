@@ -1,0 +1,198 @@
+{
+    "code": 100,
+    "message": "Collect multiple reco details",
+    "RecoDetails": [
+        {
+            "quips_questions": [
+                {
+                    "id": "20",
+                    "questions": [
+                        {
+                            "question_id": "39",
+                            "question_text": "Take Your Time"
+                        },
+                        {
+                            "question_id": "40",
+                            "question_text": "On The Dime?"
+                        }
+                    ],
+                    "category_id": "10",
+                    "category_name": "Reliability"
+                },
+                {
+                    "id": "9",
+                    "questions": [
+                        {
+                            "question_id": "17",
+                            "question_text": "Slides Into First"
+                        },
+                        {
+                            "question_id": "18",
+                            "question_text": "Bases Loaded"
+                        }
+                    ],
+                    "category_id": "5",
+                    "category_name": "Experience"
+                },
+                {
+                    "id": "34",
+                    "questions": [
+                        {
+                            "question_id": "67",
+                            "question_text": "Driving Miss Daisy?"
+                        },
+                        {
+                            "question_id": "68",
+                            "question_text": "Daytona 500?"
+                        }
+                    ],
+                    "category_id": "16",
+                    "category_name": "Lifestyle"
+                }
+            ],
+            "rating_questions": [
+                {
+                    "id": "88",
+                    "text": "Clueless"
+                },
+                {
+                    "id": "89",
+                    "text": "Karaoke Skills"
+                },
+                {
+                    "id": "95",
+                    "text": "Color Coordination"
+                }
+            ],
+            "phrase_questions": {
+                "id": "123",
+                "text": "Generic"
+            },
+            "a_user": {
+                "id": "1039832027",
+                "first_name": "Cedric",
+                "last_name": "Sandars",
+                "name": "Cedric Sandars",
+                "gender": "Male",
+                "is_smu_user": null,
+                "img_url": "http://s3.amazonaws.com/setmeup/pics/profiles/1039832027_c.jpg"
+            },
+            "c_user": [
+                {
+                    "id": "100000152132620",
+                    "is_smu_user": false,
+                    "first_name": "Saji",
+                    "last_name": "Kv",
+                    "name": "Saji Kv",
+                    "img_url": "http://s3.amazonaws.com/setmeup/pics/profiles/100000152132620_c.jpg",
+                    "a_c_connection_id": "10665"
+                }
+            ]
+        },
+            {
+            "quips_questions": [
+                {
+                    "id": "20",
+                    "questions": [
+                        {
+                            "question_id": "39",
+                            "question_text": "Take Your Time"
+                        },
+                        {
+                            "question_id": "40",
+                            "question_text": "On The Dime?"
+                        }
+                    ],
+                    "category_id": "10",
+                    "category_name": "Reliability"
+                },
+                {
+                    "id": "9",
+                    "questions": [
+                        {
+                            "question_id": "17",
+                            "question_text": "Slides Into First"
+                        },
+                        {
+                            "question_id": "18",
+                            "question_text": "Bases Loaded"
+                        }
+                    ],
+                    "category_id": "5",
+                    "category_name": "Experience"
+                },
+                {
+                    "id": "34",
+                    "questions": [
+                        {
+                            "question_id": "67",
+                            "question_text": "Driving Miss Daisy?"
+                        },
+                        {
+                            "question_id": "68",
+                            "question_text": "Daytona 500?"
+                        }
+                    ],
+                    "category_id": "16",
+                    "category_name": "Lifestyle"
+                }
+            ],
+            "rating_questions": [
+                {
+                    "id": "88",
+                    "text": "Clueless"
+                },
+                {
+                    "id": "89",
+                    "text": "Karaoke Skills"
+                },
+                {
+                    "id": "95",
+                    "text": "Color Coordination"
+                }
+            ],
+            "phrase_questions": {
+                "id": "123",
+                "text": "Generic"
+            },
+            "a_user": {
+                "id": "1039832027",
+                "first_name": "Cedric",
+                "last_name": "Sandars",
+                "name": "Cedric Sandars",
+                "gender": "Male",
+                "is_smu_user": null,
+                "img_url": "http://s3.amazonaws.com/setmeup/pics/profiles/100000152132620_c.jpg"
+            },
+            "c_user": [
+                {
+                    "id": "100000152132620",
+                    "is_smu_user": false,
+                    "first_name": "Saji",
+                    "last_name": "Kv",
+                    "name": "Saji Kv",
+                    "img_url": "http://s3.amazonaws.com/setmeup/pics/profiles/100000152132620_c.jpg",
+                    "a_c_connection_id": "10665"
+                },
+                  {
+                    "id": "100000152132620",
+                    "is_smu_user": false,
+                    "first_name": "Saji",
+                    "last_name": "Kv",
+                    "name": "Saji Kv",
+                    "img_url": "http://s3.amazonaws.com/setmeup/pics/profiles/100000152132620_c.jpg",
+                    "a_c_connection_id": "10665"
+                },
+                  {
+                    "id": "100000152132620",
+                    "is_smu_user": false,
+                    "first_name": "Saji",
+                    "last_name": "Kv",
+                    "name": "Saji Kv",
+                    "img_url": "http://s3.amazonaws.com/setmeup/pics/profiles/100000152132620_c.jpg",
+                    "a_c_connection_id": "10665"
+                }
+            ]
+        }
+    ]
+}

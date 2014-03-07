@@ -1,0 +1,29 @@
+{
+    "code": 100,
+    "message": "Collect multiple reco details",
+    "recoAB": [
+               {
+               "a_user": {
+               "id": "100000295066984",
+               "first_name": "Arul",
+               "last_name": "Raj",
+               "name": "Arul Raj",
+               "gender": "Male",
+               "is_smu_user": null,
+               "img_url": "http://s3.amazonaws.com/setmeup/pics/profiles/100000295066984_c.jpg"
+               },
+               "c_user": [
+                          {
+                          "id": "100000255149356",
+                          "is_smu_user": false,
+                          "first_name": "Reshma",
+                          "last_name": "Rose",
+                          "name": "Reshma Rose",
+                          "img_url": "http://s3.amazonaws.com/setmeup/pics/profiles/100000255149356_c.jpg",
+                          "a_c_connection_id": "3"
+                          }
+                          ]
+               }
+               ],
+    "recoBC": []
+}

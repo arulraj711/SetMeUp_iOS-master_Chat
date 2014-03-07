@@ -1,0 +1,84 @@
+{
+    "code": 100,
+    "message": "Recent reco status!",
+    "recent_status": {
+        "connection_match_id": 0,
+        "date_sug_id": 0,
+        "b_reco_count": 1,
+        "b_open_reco_count": 1,
+        "c_reco_count": 1,
+        "new_message": [
+            {
+                "Message": {
+                    "from_user_id": "100002112147565",
+                    "to_user_id": "100006509326061",
+                    "id": "843"
+                }
+            },
+            {
+                "Message": {
+                    "from_user_id": "100005062664439",
+                    "to_user_id": "100006509326061",
+                    "id": "1085"
+                }
+            },
+            {
+                "Message": {
+                    "from_user_id": "100005062664439",
+                    "to_user_id": "100006509326061",
+                    "id": "1087"
+                }
+            },
+            {
+                "Message": {
+                    "from_user_id": "100005062664439",
+                    "to_user_id": "100006509326061",
+                    "id": "1088"
+                }
+            },
+            {
+                "Message": {
+                    "from_user_id": "100005062664439",
+                    "to_user_id": "100006509326061",
+                    "id": "1089"
+                }
+            },
+            {
+                "Message": {
+                    "from_user_id": "100005062664439",
+                    "to_user_id": "100006509326061",
+                    "id": "1090"
+                }
+            },
+            {
+                "Message": {
+                    "from_user_id": "100005062664439",
+                    "to_user_id": "100006509326061",
+                    "id": "1091"
+                }
+            },
+            {
+                "Message": {
+                    "from_user_id": "100005062664439",
+                    "to_user_id": "100006509326061",
+                    "id": "1092"
+                }
+            },
+            {
+                "Message": {
+                    "from_user_id": "100005062664439",
+                    "to_user_id": "100006509326061",
+                    "id": "1093"
+                }
+            }
+        ],
+        "message_count": 9,
+        "pushMessages": {
+            "Messages": {
+                "b_response_msg": null,
+                "a_response_msg": null
+            },
+            "total_msg_count": 0
+        }
+    }
+}
